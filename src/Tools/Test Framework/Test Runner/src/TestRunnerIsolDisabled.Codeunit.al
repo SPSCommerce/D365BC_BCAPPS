@@ -3,7 +3,7 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.TestRunner;
+// namespace System.TestTools.TestRunner;
 
 codeunit 130451 "Test Runner - Isol. Disabled"
 {

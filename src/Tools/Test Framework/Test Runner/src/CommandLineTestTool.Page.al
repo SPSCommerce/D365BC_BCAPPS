@@ -3,10 +3,10 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.TestRunner;
+// namespace System.TestTools.TestRunner;
 
-using System.TestTools.CodeCoverage;
-using System.Tooling;
+// using System.TestTools.CodeCoverage;
+// using System.Tooling;
 
 page 130455 "Command Line Test Tool"
 {

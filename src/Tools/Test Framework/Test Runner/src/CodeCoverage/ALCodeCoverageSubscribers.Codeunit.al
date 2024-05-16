@@ -3,9 +3,9 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.CodeCoverage;
+// namespace System.TestTools.CodeCoverage;
 
-using System.TestTools.TestRunner;
+// using System.TestTools.TestRunner;
 
 codeunit 130471 "AL Code Coverage Subscribers"
 {

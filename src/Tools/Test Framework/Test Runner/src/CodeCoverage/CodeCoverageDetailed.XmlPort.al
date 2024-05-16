@@ -3,11 +3,11 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.CodeCoverage;
+// namespace System.TestTools.CodeCoverage;
 
-using System.Tooling;
+// using System.Tooling;
 
-xmlport 130471 "Code Coverage Detailed"
+xmlport 130471 "Code Coverage Detailed TR"
 {
     Direction = Export;
     Format = VariableText;

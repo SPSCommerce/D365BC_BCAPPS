@@ -3,7 +3,7 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.CodeCoverage;
+// namespace System.TestTools.CodeCoverage;
 
 table 130471 "Test Code Coverage Result"
 {

@@ -3,9 +3,9 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.TestRunner;
+// namespace System.TestTools.TestRunner;
 
-using System.TestTools.CodeCoverage;
+// using System.TestTools.CodeCoverage;
 
 permissionset 130452 "Test Runner - Obj."
 {
@@ -27,7 +27,7 @@ permissionset 130452 "Test Runner - Obj."
         codeunit "AL Code Coverage Mgt." = X,
         codeunit "AL Code Coverage Subscribers" = X,
         xmlport "AL Code Coverage Map" = X,
-        xmlport "Code Coverage Detailed" = X,
+        xmlport "Code Coverage Detailed TR" = X,
         xmlport "Code Coverage Results" = X,
         page "AL Test Tool" = X,
         page "AL Test Suites" = X,

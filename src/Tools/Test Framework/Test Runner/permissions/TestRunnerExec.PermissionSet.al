@@ -3,9 +3,9 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.TestRunner;
+// namespace System.TestTools.TestRunner;
 
-using System.TestTools.CodeCoverage;
+// using System.TestTools.CodeCoverage;
 
 permissionset 130450 "Test Runner - Exec"
 {

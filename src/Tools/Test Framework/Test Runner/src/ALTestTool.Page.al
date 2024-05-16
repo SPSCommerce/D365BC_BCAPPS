@@ -3,9 +3,9 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.TestRunner;
+// namespace System.TestTools.TestRunner;
 
-using System.TestTools.CodeCoverage;
+// using System.TestTools.CodeCoverage;
 
 page 130451 "AL Test Tool"
 {

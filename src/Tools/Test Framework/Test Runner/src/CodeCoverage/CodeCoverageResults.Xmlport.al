@@ -3,9 +3,9 @@
 // Licensed under the MIT License. See License.txt in the project root for license information.
 // ------------------------------------------------------------------------------------------------
 
-namespace System.TestTools.CodeCoverage;
+// namespace System.TestTools.CodeCoverage;
 
-using System.Tooling;
+// using System.Tooling;
 
 xmlport 130470 "Code Coverage Results"
 {
